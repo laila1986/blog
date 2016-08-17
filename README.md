@@ -14,6 +14,6 @@ Blog assignments for Agron 590RD @ ISU.
 1. Lather, rinse, repeat.
 
 ## Due dates
-1. Data nightmares - Due Aug. 31
+1. [Data nightmares](https://github.com/agron590-ISU/blog/tree/master/01_data-nightmares) - Due Aug. 31
 
 
