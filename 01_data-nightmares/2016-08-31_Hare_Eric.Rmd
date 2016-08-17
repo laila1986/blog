@@ -1,0 +1,9 @@
+---
+title: "Eric's worst data nightmare..."
+author: "Eric Hare"
+layout: post
+root: ../../../../
+---
+
+Weeeeeee blog post!
+
