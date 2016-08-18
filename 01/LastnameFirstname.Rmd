@@ -1,8 +1,9 @@
 ---
 title: "My worst data nightmare..."
-author: "Your Name"
+author: "Firstname Lastname"
+topic: "01"
 layout: post
-root: ../../../../
+root: ../../../
 ---
 
 ## Prompt:
@@ -12,7 +13,7 @@ Talk about your worst experience with data. Try to think about what made this ex
 ## Instructions:
 Save a **new copy** of this file, replacing "Lastname" and "Firstname" with your own and leaving the original unedited.
 
-In **your copy**, replace the `title:` and `author:` fields in the YAML above, while leaving the remaining fields intact. Remove the Prompt and Instructions sections and write your blog post!
+In **your copy**, replace the `title:` field in the YAML above, while leaving the remaining fields intact. Remove the Prompt and Instructions sections and write your blog post!
 
 Feel free to use images or gifs in your post by storing them in the images folder and including them like this:
 
