@@ -6,17 +6,19 @@ layout: post
 root: ../../../
 ---
 
-## Prompt:
+## Future data nightmares:
 
-Talk about your worst experience with data. Try to think about what made this experience stand out in your mind and why it was so difficult. If you could have changed one or two things about the situation, what would you prioritize?
+Personally, I have not had the pleasure of dealing with data in any significant amount, however, at some point in the future it will happen, and I will need to be ready to combat it!
 
-## Instructions:
-Save a **new copy** of this file, replacing "Lastname" and "Firstname" with your own and leaving the original unedited.
+I've heard several accounts of how challenging dealing with data from sampling can become, and I'm hoping that by participating in this class, I can protect myself from disasterous situations in the future.  Considering my folders and documents are fairly unorganized, I know I could use some better habits when it comes to files.  I am terrible about naming things in a sensical and structured fashion. 
 
-In **your copy**, replace the `title:` and `author:` fields in the YAML above, while leaving the remaining fields intact. Remove the Prompt and Instructions sections and write your blog post!
+Besides the orgaznization problem, I am a bit afraid of creating graphs and such with data.  I feel overwhelmed just doing simple things in Excel, and therefore I know that I need practice with handling information in an electronic setting.  
 
-Feel free to use images or gifs in your post by storing them in the images folder and including them like this:
+Essentially, I am free from real-life data nightmares, but the idea of working with data to the extent I will need to later in my career, already haunts me!
 
-![](images/mind_blown.gif)
+
+Me, thinking about data!
+
+![](http://25.media.tumblr.com/e5ecf01a579a4d6febcfb93ff4cf80c4/tumblr_n3fac8ZEeQ1r3z3gbo1_500.gif)
 
 
