@@ -1,0 +1,24 @@
+---
+title: "My *almost* data nightmare"
+author: "Elke Brandes"
+topic: "01"
+layout: post
+root: ../../../
+---
+
+The worst data snafu that stands out in my mind was one that had almost turned into a nightmare, had I noticed it a few days later. Luckly, my manuscript was still under review when I noticed that I had used an incorrect data set for some calculations, so that a map and some calculations needed to be changed. Luckily, the error did not compromize the story the paper was telling, in fact, it made the results look more compelling. But still, it was embarrassing. 
+
+The reason why these data were wrong, was a fact that had cost me grey hair and nerves so many times before: I had mixed up English and SI units, again!
+
+This issue could be easily avoided if only the US had a different attitude about itself and the world, ahem.... (oops, I should stop here, this promt is about *myself* changing something...)
+
+It would have helped to
+
+* Have a more systematic approach to scripts (SQL queries in this case), e.g., change English units into SI units at the same step in all scripts
+* Have a better documentation of the workflow to be able to check if all data processing steps are done, and done correctly.
+
+
+
+![](images/mind_blown.gif)
+
+
