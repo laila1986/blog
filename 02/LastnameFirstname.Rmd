@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Ten simple rules..."
 author: "Firstname Lastname"
 topic: "02"
 layout: post
