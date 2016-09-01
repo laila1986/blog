@@ -12,7 +12,7 @@ As graduate students we often have to quickly learn how to navigate classes, aca
 
 I can think of many times during my Master’s when I felt like I did not know what I was doing (as shown in the figure below). This was especially true when organizing my field data (I’ve recently gone back to some of those old folders and left with a bit of PTSD). But there is a specific example that I recall that both, makes me shriek at how I decided to approach the problem, but also shows me how far I’ve come.
 
-<center>![I dont know what I'm doing dog](images/idk_dog.jpg)</center>
+<center><img src="images/idk_dog.jpg"/></center>
 
 This was, I think, on the 2nd semester of my MS program. I was interested in obtaining a database for weather data for stations in Iowa. I found a bounty of data at the [Iowa Environmental Mesonet](https://mesonet.agron.iastate.edu/) but did not take the time to find out how to properly access the data base. Instead, I decided to download individual [reports](https://mesonet.agron.iastate.edu/climodat/) as txt files for each of the 110 weather stations I was interested. The files I got looked something like this: 
 
