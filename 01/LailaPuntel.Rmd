@@ -1,8 +1,9 @@
 ---
 title: "Nightmare"
 author: "Laila"
-date: "August 31, 2016"
-output: word_document
+topic: "01"
+layout: post
+root: ../../../
 ---
 
 In many times throughout my carrer I have felt like I was having the worse data **Nightmare**. I know that I suppose to be describing the **worst** but they were all as bad. The good thing is that all of them have the same issue in commmon and is about:
