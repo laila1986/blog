@@ -17,3 +17,5 @@ In many times throughout my carrer I have felt like I was having the worse data 
 I am positive that this class will definetly improve our skills to manage data and documents to avoid painfull experience like most of us had at some point. 
 
 
+
+
