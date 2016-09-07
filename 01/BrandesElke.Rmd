@@ -28,9 +28,9 @@ It would have helped to
 
 **Figure based on wrong data:**
 
-![Figure based on wrong data](images/Fig4_error_blog.tif)
+![Figure based on wrong data](images/Fig4_error_blog.png)
 
 **Figure based on corrected data:**
 
-![Figure based on corrected data](images/Fig4_blog.tif)
+![Figure based on corrected data](images/Fig4_blog.png)
 
