@@ -7,4 +7,6 @@ KnitPost <- function(input, base.url = "/") {
   render_jekyll()
   knit(input, envir = parent.frame())
 }
-##KnitPost("path-to-file.Rmd", '../../../../')
+files <- list.files(".", pattern = "*.Rmd")
+files <- files[files != "LastnameFirstname.Rmd"]
+for(file in files) KnitPost(file, '../../../../')
