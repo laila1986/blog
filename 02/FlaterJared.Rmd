@@ -9,6 +9,7 @@ root: ../../../
 ## Feeding Data
 
 Thoughts on this article: http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003542
+
 1. Which rule are you most likely to follow and why? 
 
   Rule 5 or 6, given the data intensive nature of the genomic component of my lab's analyses these two rules seem most applicable and useful. From my perspective, as a new researcher, I often find figures generated in paper from code, that would be really useful to see/re-create. 
