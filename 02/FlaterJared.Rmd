@@ -6,6 +6,7 @@ layout: post
 root: ../../../
 ---
 ![](images/trek_data.gif)
+
 ## Feeding Data
 
 Thoughts on this article: http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003542
