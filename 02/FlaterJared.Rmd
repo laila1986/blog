@@ -1,6 +1,6 @@
 ---
 title: "Feeding Data"
-author: "Firstname Lastname"
+author: "Jared Flater"
 topic: "02"
 layout: post
 root: ../../../
