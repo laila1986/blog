@@ -18,6 +18,6 @@ root: ../../../
 
 *Here is a gif that made me giggle today, so I thought it would be appropriate to include.*
 
-![](images/cat_yes.jpg)
+![](images/cat_pizza.gif)
 
 
