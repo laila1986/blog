@@ -1,0 +1,24 @@
+---
+title: "What is \"normal\" anyways?"
+author: "Firstname Lastname"
+topic: "04"
+layout: post
+root: ../../../
+---
+
+## Prompt:
+
+Read the article by William Kent, "A Simple Guide to Five Normal Forms in Relational Database Theory" in Communications of the ACM from Feb. 1983, available [here](http://www.bkent.net/Doc/simple5.htm).
+
+Summarise what you learned from the article. Feel free to think ahead into how you could use this knowledge in the future.
+
+## Instructions:
+Copy and save a **new copy** of this file, replacing "Lastname" and "Firstname" with your own and leaving the original unedited.
+
+In **your copy**, replace the `title:` and `author:` fields in the YAML above, while leaving the remaining fields intact. Remove the Prompt and Instructions sections and write your blog post!
+
+Push your R markdown skills and do one thing you didn't do last week in regards to formatting. Feel free to use images or gifs in your post by storing them in the images folder and including them like this:
+
+![](images/nerds.gif)
+
+
