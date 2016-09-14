@@ -18,4 +18,5 @@ Blog assignments for Agron 590RD @ ISU.
 1. [Data nightmares](https://github.com/agron590-ISU/blog/blob/master/01/LastnameFirstname.Rmd) - Due Aug. 31
 2. [10 rules](https://github.com/agron590-ISU/blog/blob/master/02/LastnameFirstname.Rmd) - Due Sep. 7
 3. [Relational DBs are dead, long live relational DBs!](https://github.com/agron590-ISU/blog/blob/master/03/LastnameFirstname.Rmd) - Due Sep. 14
+4. [What is "normal" anyways?](https://github.com/agron590-ISU/blog/blob/master/04/LastnameFirstname.Rmd) - Due Sep. 21
 
