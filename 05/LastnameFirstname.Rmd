@@ -1,0 +1,19 @@
+---
+title: "Tidy data"
+author: "Firstname Lastname"
+topic: "05"
+layout: post
+root: ../../../
+---
+
+## Prompt:
+
+Read Hadley Wickham's Tidy Data paper here: http://vita.had.co.nz/papers/tidy-data.pdf
+
+What is tidy data and how does it relate to the data modeling topics that we have already discussed in this class? What are the benefits to keeping data "tidy"? Are there any drawbacks?
+
+## Instructions:
+Copy and save a **new copy** of this file, replacing "Lastname" and "Firstname" with your own and leaving the original unedited.
+
+In **your copy**, replace the `title:` and `author:` fields in the YAML above, while leaving the remaining fields intact. Remove the Prompt and Instructions sections and write your blog post!
+
