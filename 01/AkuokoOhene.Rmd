@@ -16,5 +16,4 @@ By the time we got the circuits outputting power correctly it was time for the P
 So the manual field measurements were not taken until a month into the project,essentially loosing about a month's worth of  the main data in this portion of the project. Though there may be a way where we can mathematically approximate the missing data and hopefully retain that month's work. In the future, I would definitely take more detailed note of any changes when altering instumentation and also ensure I utilize the same notebook throughout or atleast transfer my notes from the previous notebook.
 
 
-![](images/Sweating Globe.gif)
 
