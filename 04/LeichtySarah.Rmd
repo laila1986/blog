@@ -1,5 +1,5 @@
 ---
-title: "Blog 4""
+title: "Blog 4"
 author: "Sarah Leichty"
 topic: "04"
 layout: post
