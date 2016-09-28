@@ -20,3 +20,4 @@ Blog assignments for Agron 590RD @ ISU.
 3. [Relational DBs are dead, long live relational DBs!](https://github.com/agron590-ISU/blog/blob/master/03/LastnameFirstname.Rmd) - Due Sep. 14
 4. [What is "normal" anyways?](https://github.com/agron590-ISU/blog/blob/master/04/LastnameFirstname.Rmd) - Due Sep. 21
 5. [Tidy data](https://github.com/agron590-ISU/blog/blob/master/05/LastnameFirstname.Rmd) - Due Sep. 28
+6. [In the beginning...](https://github.com/agron590-ISU/blog/blob/master/06/LastnameFirstname.Rmd) - Due Oct. 5
