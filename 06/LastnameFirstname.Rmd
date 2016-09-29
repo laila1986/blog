@@ -1,0 +1,17 @@
+---
+title: "In the beginning..."
+author: "Firstname Lastname"
+topic: "06"
+layout: post
+root: ../../../
+---
+
+## Prompt:
+
+Read [R: A Language for Data Analysis and Graphics](http://biostat.mc.vanderbilt.edu/wiki/pub/Main/JeffreyHorner/JCGSR.pdf) and write an interesting blog about it.
+
+## Instructions:
+Copy and save a **new copy** of this file, replacing "Lastname" and "Firstname" with your own and leaving the original unedited.
+
+In **your copy**, replace the `title:` and `author:` fields in the YAML above, while leaving the remaining fields intact. Remove the Prompt and Instructions sections and write your blog post!
+
