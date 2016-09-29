@@ -6,9 +6,9 @@ layout: post
 root: ../../../
 ---
 
-#Read Hadley Wickham's Tidy Data paper here: http://vita.had.co.nz/papers/tidy-data.pdf
+# Read Hadley Wickham's Tidy Data paper here: http://vita.had.co.nz/papers/tidy-data.pdf
 
-#What is tidy data and how does it relate to the data modeling topics that we have already discussed in this class? What are the benefits to keeping data "tidy"? Are there any drawbacks?
+# What is tidy data and how does it relate to the data modeling topics that we have already discussed in this class? What are the benefits to keeping data "tidy"? Are there any drawbacks?
 ![](images/peg.jpeg)
 
   Simply put, tidy data is just that, tidy. Data that is put in it's proper place, much like you would do to a messy room, is tidy. Variable out of place? Put it somewhere! Empty cell? Fill it! Tidy data is data that is well organized and free of errors, that is easily digestible by computational software to help us better answer the real questions we are after, not spend hours sifting through messy data just to get it into shape for analysis.

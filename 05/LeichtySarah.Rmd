@@ -7,7 +7,7 @@ root: ../../../
 ---
 
 
-##Blog Post 5
+## Blog Post 5
 
 According to the article, data tidying is the process of "structuring datasets to facilitate analysis"(Wickham). This relates to our class discussions, since we have been practicing techniques with SQL in order to quickly pull information from a dataset. The class as a whole is centered around learning how to handle data in a logical way that leads to fruitful data analysis and organization instead of getting lost in piles of numbers. Finding a way to place data in easily organized tables is a common tie between this article and the AGRON 590 course. We've talked about Codd's 3rd normal form in class and tidy data follows this form. In the article, tidy data is categorized as a table in which:
 1. Each variable forms a column.
