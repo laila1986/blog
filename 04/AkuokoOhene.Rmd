@@ -12,4 +12,3 @@ I also learned alot on the different forms of Normalization which all seem to be
 
 
 ![](images/gopher.gif)
-
