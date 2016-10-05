@@ -12,7 +12,9 @@ Read Hadley Wickham's Split-Apply-Combine paper here: http://citeseerx.ist.psu.e
 
 What is the split-apply-combine strategy and how is it used in the process of data anlysis? Where have we already seen/used the split-apply-combine strategy in this class? What are some advantages of using the split-apply-combine strategy?
 
-![](images/split.gif)
+
+![](images/homer_split.gif)
+![](images/bart_lisa_combie.gif)
 
 ## Instructions:
 Copy and save a **new copy** of this file, replacing "Lastname" and "Firstname" with your own and leaving the original unedited.
