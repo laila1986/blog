@@ -15,7 +15,7 @@ Tidy data means that
 2. Each observation forms a row
 3. Each type of observational unit forms a table.
 
-##also known as...
+## also known as...
 **Normal form!**
 
 Tidy data helps to allow extract certain pieces of data with ease, and without confusion (of the program or human), and without struggling to only grab pieces you desire to, and exclude ones you want to.

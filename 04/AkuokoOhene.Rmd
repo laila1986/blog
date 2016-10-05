@@ -1,5 +1,5 @@
 ---
-title: "Normalizing the AbNormal
+title: "Normalizing the AbNormal"
 author: "Ohene Akuoko"
 topic: "Blog 04"
 layout: post
