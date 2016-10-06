@@ -1,6 +1,6 @@
 ---
 title: "In the beginning..."
-author: "Firstname Lastname"
+author: "Kelsie Ferin"
 topic: "06"
 layout: post
 root: ../../../
