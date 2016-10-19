@@ -1,5 +1,5 @@
 --
-title: "Welcome to the tidyverse..."
+title: "Grammar of Graphics"
 author: "Firstname Lastname"
 topic: "09"
 layout: post
