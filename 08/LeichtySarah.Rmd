@@ -1,6 +1,6 @@
---
+---
 title: "Welcome to the tidyverse..."
-author: "Firstname Lastname"
+author: "Sarah Leichty"
 topic: "08"
 layout: post
 root: ../../../
@@ -22,6 +22,6 @@ Important information:
 10. referential transparent - you can replace any expression with a variable
 11. Write a function if you're copying and pasting more than a few times
 
-##The future of data analysis
+## The future of data analysis
 
 Create packages that all work together. This is Hadley Wickham's goal, and I agree that this would make organizing and analyzing data much easier for R users when using different packages for data analysis. Personally, I only want to learn R in the hopes that it will help me effeciently tidy up data and be able to summarize and compare bit and pieces seamlessly. For an average student like myself, any technique for making R packages more similar and easier to learn together would be a huge benefit. Since R is more of an interactive data analysis platform, being able to explore what R can do without needing to think about if other R packages will work in conjuction with another would be a relief. I think the future of data analysis will be even more user-friendly with more interactive situations where learning can happen fluidly. As more and more non-programmers get into the coding world, helping make the transition easier will welcome new users in instead of discouraging them from venturing into a language such as R. 
