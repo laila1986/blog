@@ -5,9 +5,16 @@ topic: "07"
 layout: post
 root: ../../../
 ---
+<<<<<<< HEAD
 #Read Hadley Wickham's Split-Apply-Combine paper here: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.182.5667&rep=rep1&type=pdf
 
 #What is the split-apply-combine strategy and how is it used in the process of data anlysis? Where have we already seen/used the split-apply-combine strategy in this class? What are some advantages of using the split-apply-combine strategy?
+=======
+# Read Hadley Wickham's Split-Apply-Combine paper here: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.182.5667&rep=rep1&type=pdf
+
+# What is the split-apply-combine strategy and how is it used in the process of data anlysis? Where have we already seen/used the split-apply-combine strategy in this class? What are some advantages of using the split-apply-combine strategy?
+
+>>>>>>> upstream/master
 ![](images/homer_split.gif)
 
 SAC or split-apply-combine is a strategy for data analysis useful whenever breaking up of data into smaller chunks is necessary to ease analysis. This is usually followed by application of said analysis to all chunks and assembly of said analyzed chunks into something useful.
