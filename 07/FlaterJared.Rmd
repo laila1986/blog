@@ -5,6 +5,7 @@ topic: "07"
 layout: post
 root: ../../../
 ---
+
 # Read Hadley Wickham's Split-Apply-Combine paper here: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.182.5667&rep=rep1&type=pdf
 
 # What is the split-apply-combine strategy and how is it used in the process of data anlysis? Where have we already seen/used the split-apply-combine strategy in this class? What are some advantages of using the split-apply-combine strategy?
