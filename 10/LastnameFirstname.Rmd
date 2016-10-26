@@ -1,0 +1,16 @@
+--
+title: "Dynamic documents"
+author: "Firstname Lastname"
+topic: "10"
+layout: post
+root: ../../../
+---
+
+## Prompt:
+
+Read the paper [Statistical Analyses and Reproducible Research](http://biostats.bepress.com/bioconductor/paper2/) by Robert Gentleman and Duncan Temple Lang. Write a blog post about the principles underlying reproducible research laid out by the authors, how we are currently using them, and how you can go even further with them in your work.
+
+## Instructions:
+Copy and save a **new copy** of this file, replacing "Lastname" and "Firstname" with your own and leaving the original unedited.
+
+In **your copy**, replace the `title:` and `author:` fields in the YAML above, while leaving the remaining fields intact. Remove the Prompt and Instructions sections and write your blog post!
