@@ -24,3 +24,4 @@ Blog assignments for Agron 590RD @ ISU.
 7. [SAC it to me!](https://github.com/agron590-ISU/blog/blob/master/07/LastnameFirstname.Rmd) - Due Oct. 12
 8. [Welcome to the tidyverse...](https://github.com/agron590-ISU/blog/blob/master/08/LastnameFirstname.Rmd) - Due Oct. 19
 9. [Grammar of Graphics](https://github.com/agron590-ISU/blog/blob/master/09/LastnameFirstname.Rmd) - Due Oct. 26
+10. [Dynamic documents](https://github.com/agron590-ISU/blog/blob/master/10/LastnameFirstname.Rmd) - Due Nov. 2
