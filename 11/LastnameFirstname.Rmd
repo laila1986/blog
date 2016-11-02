@@ -1,0 +1,17 @@
+---
+title: "Literate programming"
+author: "Firstname Lastname"
+topic: "11"
+layout: post
+root: ../../../
+---
+
+## Prompt:
+
+Watch Donald Knuth's talk at useR!2016 ["Literate Programming"](https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016/Literate-Programming) and write a blog post on your thoughts. How have his ideas about literate programming been implemented today? What differences can you see between his vision and our current reality?
+
+
+## Instructions:
+Copy and save a **new copy** of this file, replacing "Lastname" and "Firstname" with your own and leaving the original unedited.
+
+In **your copy**, replace the `title:` and `author:` fields in the YAML above, while leaving the remaining fields intact. Remove the Prompt and Instructions sections and write your blog post!
