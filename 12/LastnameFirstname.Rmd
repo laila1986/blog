@@ -1,0 +1,17 @@
+---
+title: "Literate programming"
+author: "Firstname Lastname"
+topic: "12"
+layout: post
+root: ../../../
+---
+
+## Prompt:
+
+Read Helen Shen's article ["Interactive notebooks: Sharing the code"](http://www.nature.com/news/interactive-notebooks-sharing-the-code-1.16261) and write a blog post on your thoughts. What is the significance of a journal like *Nature* publishing about the use of dynamic documents such as interactive notebooks? What do you think it will take for reproducibility and dynamic documents to go mainstream?
+
+
+## Instructions:
+Copy and save a **new copy** of this file, replacing "Lastname" and "Firstname" with your own and leaving the original unedited.
+
+In **your copy**, replace the `title:` and `author:` fields in the YAML above, while leaving the remaining fields intact. Remove the Prompt and Instructions sections and write your blog post!
