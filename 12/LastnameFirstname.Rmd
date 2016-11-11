@@ -1,5 +1,5 @@
 ---
-title: "Literate programming"
+title: "Reproducibility in practice"
 author: "Firstname Lastname"
 topic: "12"
 layout: post
