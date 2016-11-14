@@ -1,6 +1,6 @@
---
+---
 title: "Grammar of Graphics"
-author: "Firstname Lastname"
+author: "Kelsie Ferin"
 topic: "09"
 layout: post
 root: ../../../

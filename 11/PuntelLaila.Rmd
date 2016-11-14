@@ -6,7 +6,7 @@ layout: post
 root: ../../../
 ---
 
-##Donald Knuth's talk:
+## Donald Knuth's talk:
 
 How have his ideas about literate programming been implemented today? What differences can you see between his vision and our current reality?
 
@@ -19,7 +19,7 @@ According to Knuth using literate programming we can get higher-quality programs
 
 Literate programming...
 
-##"Facilitate thinking, giving a higher "bird's eye view of the code and increasing the number of concepts the mind can successfully retain and process"## 
+## "Facilitate thinking, giving a higher "bird's eye view of the code and increasing the number of concepts the mind can successfully retain and process"## 
 
 Although his idea sounds perfect to make literate programming a generalize rule, currently reality doesn't seem to follow his approach at least from my understanding in a very extended way. One of the reason for his poorly adoption is the amount of time and effort to write the literate programming. 
 

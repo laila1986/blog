@@ -1,4 +1,4 @@
---
+---
 title: "Grammar of Graphics: Purpose and Challenges"
 author: "Sarah Leichty"
 topic: "09"
